@@ -1,0 +1,5 @@
+username: super-admin
+
+#update uesr model to login with email id
+email: bnitish101@gmail.com
+password: super-admin
